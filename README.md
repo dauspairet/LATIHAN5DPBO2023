@@ -19,7 +19,8 @@ Menambah _reset form_ berupa _button Cancel_ yang jika ditekan akan mengosongkan
 Menambah fitur refresh atau menampilkan tampilan tabel terbaru setelah melakukan _update_ dan _delete_.
 
 ### Add confirmation prompt before delete
-![Prompt Delete](https://github.com/dauspairet/LATIHAN5DPBO2023/raw/main/screenshot/latihan5_promptDelete1.jpeg)
+![Prompt Delete Before](https://github.com/dauspairet/LATIHAN5DPBO2023/raw/main/screenshot/latihan5_promptDelete1.jpeg)
+![Prompt Delete After](https://github.com/dauspairet/LATIHAN5DPBO2023/raw/main/screenshot/latihan5_promptDelete2.jpeg)
 
 Menambah prompt konfirmasi sebelum melakukan _delete_.
 
