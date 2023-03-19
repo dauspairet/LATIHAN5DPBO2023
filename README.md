@@ -26,3 +26,4 @@ Menambah prompt konfirmasi sebelum melakukan _delete_.
 
 ### Note
 Menambah _button Reset_ untuk mengosongkan tabel mahasiswa.
+![Reset](https://github.com/dauspairet/LATIHAN5DPBO2023/raw/main/screenshot/latihan5_resetData.jpeg)
