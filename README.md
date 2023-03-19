@@ -2,6 +2,9 @@
 
 <b>Saya Muhamad Firdaus [2101995] mengerjakan soal Latihan 5 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.</b>
 
+### Form Tabel Mahasiswa
+![Tabel Mahasiswa](https://github.com/dauspairet/LATIHAN5DPBO2023/raw/main/screenshot/latihan5_1.jpeg)
+
 ### Add more property (component type: any, except text field)
 Menambah JComboBox dengan ukuran baju mahasiswa yang terdiri dari:
 - S
