@@ -10,4 +10,10 @@ Menambah JComboBox dengan ukuran baju mahasiswa yang terdiri dari:
 - XL
 
 ### Add method to reset form
-Menambah <i>reset form</i>
+Menambah _reset form_ berupa _button Cancel_ yang jika ditekan akan mengosongkan nilai dari _textfield_ pada komponen _text field_ dan akan mengatur JComboBox kembali ke ukuran S.
+
+### Refresh table after update and delete
+Menambah fitur refresh atau menampilkan tampilan tabel terbaru setelah melakukan _update_ dan _delete_.
+
+### Add confirmation prompt before delete
+Menambah prompt konfirmasi sebelum melakukan _delete_.
